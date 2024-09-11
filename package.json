@@ -12,6 +12,7 @@
   "dependencies": {
     "@clerk/nextjs": "^5.1.6",
     "@prisma/client": "^5.16.1",
+    "expense-tracker": "file:",
     "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18",
